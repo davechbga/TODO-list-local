@@ -4,7 +4,7 @@ Welcome to the Todo List application! This simple web app allows you to keep tra
 
 ## Demo
 
-You can try the Todo List app online [here](https://app.netlify.com/sites/todo-app-local/overview).
+You can try the Todo List app online [here](https://todo-app-local.netlify.app/).
 
 ## Description
 
